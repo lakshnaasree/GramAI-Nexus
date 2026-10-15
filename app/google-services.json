@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913225934888",
+    "project_id": "gramainexussmartvillage",
+    "storage_bucket": "gramainexussmartvillage.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913225934888:android:817807a5925792c8a8ed1d",
+        "android_client_info": {
+          "package_name": "com.gramainexus.smartvillage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAml11mwh2LfDnDNZY6wpAKd1HpE_6Y4s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
